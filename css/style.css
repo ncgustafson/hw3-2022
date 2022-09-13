@@ -93,13 +93,13 @@ div{
 }
 
 .green{
-    background-color: #00EB00;
+    background-color: #00D800;
     text-align: left;
     margin-right:50px;
     border-right: 5px solid #FFFFFF;
-    border-top:2px solid #FFFFFF;
+    border-bottom:2px solid #FFFFFF;
     border-left:0px;
-    border-bottom:0px;
+    border-top:0px;
 }
 
 .green p{
